@@ -209,6 +209,7 @@ The project was developed in **MATLAB** and requires:
 - Statistics and Signal Processing Toolboxes (recommended)
 
 The repository includes all auxiliary MATLAB scripts and supporting `.mat` files used throughout the analysis. Only the external toolboxes (Homer2 and Iso2Mesh) and the experimental dataset need to be provided separately.
+Also, the Jacobian cannot be provided because of the file size.
 
 ---
 
